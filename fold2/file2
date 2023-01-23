@@ -1,0 +1,8 @@
+useradd
+userdel
+cp
+touch
+ping
+nslookup
+curl
+
